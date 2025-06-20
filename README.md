@@ -1,2 +1,2 @@
 # goldFish
-A chess bot based off of the stockfish architecture
+A chess engine that becomes retarded in the endgame
